@@ -2,7 +2,7 @@
 <h3 align="center">I am a software engineer 👩🏻‍💻☀️✨</h3>
 
 - 🌱 I’m currently learning **Langchain and LLM's**
-a
+
 - 📝 I regularly write articles on [https://medium.com/@ebruboyaci](https://medium.com/@ebruboyaci)
 
 - 📫 How to reach me **ebruuboyaci@gmail.com**
