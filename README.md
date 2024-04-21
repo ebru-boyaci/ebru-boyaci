@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ebru 🧝🏼‍♀️</h1>
+<h1 align="center">Hi 👋, I'm Ebru ✨🧝🏼‍♀️</h1>
 <h3 align="center">I am a software engineer 👩🏻‍💻☀️✨</h3>
 
 - 🌱 I’m currently learning **Langchain and LLM's**
