@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebru 🧝🏼‍♀️</h1>
 <h3 align="center">I am a software engineer 👩🏻‍💻✨</h3>
 
-- 🌱 I’m currently learning **Langchain and LLM's**
-
 - 📝 I regularly write article on [https://medium.com/@ebruboyaci](https://medium.com/@ebruboyaci)
 
 - 📫 How to reach me **ebruuboyaci@gmail.com**
