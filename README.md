@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebru 🧝🏼‍♀️</h1>
 <h3 align="center">I am a software engineer 👩🏻‍💻✨</h3>
 
-- 📝 I regularly write article on [https://medium.com/@ebruboyaci](https://medium.com/@ebruboyaci)
-
 - 📫 How to reach me **ebruuboyaci@gmail.com**
 
 <h3 align="left">Connect with me👋: </h3>
